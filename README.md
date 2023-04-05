@@ -1,3 +1,5 @@
+不用看~~~~~
+
 echo "# item_status" >> README.md
 git init
 git add README.md
